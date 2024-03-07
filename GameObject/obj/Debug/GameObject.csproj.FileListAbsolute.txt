@@ -1,0 +1,7 @@
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\bin\Debug\GameObject.exe.config
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\bin\Debug\GameObject.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\bin\Debug\GameObject.pdb
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\obj\Debug\GameObject.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\GameObject\GameObject\obj\Debug\GameObject.pdb
